@@ -1,2 +1,2 @@
 # DHR
-Resent application
+Resent application of visiting student researcher
