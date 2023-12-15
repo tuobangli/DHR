@@ -1,2 +1,2 @@
 # DHR
-Resent application of visiting student researcher(current is ok
+Resent application of visiting student researcher
