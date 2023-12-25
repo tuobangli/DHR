@@ -1,2 +1,2 @@
 # DHR
-waiting for reply 0
+resend email 
