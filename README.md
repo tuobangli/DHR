@@ -1,2 +1,2 @@
 # DHR
-already resend email  7
+resend email  0
