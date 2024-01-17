@@ -1,1 +1,1 @@
-Crowne Plaza Resort Saipan
+3000
