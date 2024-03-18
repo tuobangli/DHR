@@ -1,1 +1,1 @@
-contact Juliet Shaffer
+resend email to Juliet Shaffer
