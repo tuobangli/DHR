@@ -1,1 +1,1 @@
-send email to Technion president, vice presidents, and Guangdong Technion Chancellor, vice chancellor, and UG dean.
+asked Central South University of Forestry and Technology for help.
