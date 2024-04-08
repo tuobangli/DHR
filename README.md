@@ -1,1 +1,1 @@
-more， only related to YC
+current is enough.
