@@ -1,1 +1,1 @@
-more, mainly about crinimal 
+more, not related to YG
