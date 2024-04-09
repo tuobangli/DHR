@@ -1,1 +1,1 @@
-more, mainly about student
+current is enough
