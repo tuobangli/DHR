@@ -1,13 +1,14 @@
-PLANTBI (Plant & Microbial Biology) 299: Graduate Research
+CMPBIO (Computational Biology) 295: Individual Research For Doctoral Students
 Open
-IND 001 #11046 / Session C / 1.00 - 12.00 units
+Permission Required
+LAB 001 #12970 / Session B / 1.00 - 12.00 units
 2024 Summer
-Independent Study (Instruction Mode: In-Person Instruction)
+Laboratory (Instruction Mode: In-Person Instruction)
 Schedule
 	
 Location / Instructor
 	
 To Be Announced
-20/4//6/17 - 20/4//8/09
+20/4//6/03 - 20/4//8/09
 	
-TBA - Randy Schekman 
+TBA - Rasmus Nielsen 
