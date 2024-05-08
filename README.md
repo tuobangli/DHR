@@ -1,1 +1,1 @@
-using I-20 to book a visa inverview in Beijing ASAP 7
+book visa interview after booking Berkeley extension.
