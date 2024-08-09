@@ -1,1 +1,1 @@
-I sincerely acknowledge the insightful comments from Peter Bickel, which considerably elevating the lucidity and merit of this paper. 
+Remove the professor title of Yigal Achmon in the email.
